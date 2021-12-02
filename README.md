@@ -1,5 +1,5 @@
 # Landing-page-makeover
-First responsive landing page created for a client during my internship.
+First responsive landing page makeover for a client during internship.
 <br>
 
 #### Used languages:
